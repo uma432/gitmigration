@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Author: Ulrich Mann
+# Based on https://git-scm.com/book/en/v2/Git-and-Other-Systems-Migrating-to-Git
+
 # This script will clone remote SVN repositories as local git repositories using git-svn (https://git-scm.com/docs/git-svn)
 # and push them to a remote git server. 
 # Expects empty git repositories on the remote git server to be initialized previously.
