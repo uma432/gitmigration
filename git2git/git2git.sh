@@ -1,3 +1,6 @@
+#!/bin/sh
+set -e
+
 remotegitserver1=mysshgithost1
 remotegitserver2=mysshgithost2
 
